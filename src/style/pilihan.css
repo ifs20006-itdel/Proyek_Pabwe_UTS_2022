@@ -1,0 +1,21 @@
+.menuBox{
+    background-color: rgb(109, 139, 151);
+}
+
+.garisPemisah{
+    width:85%;
+    text-align:right;
+    margin-left:5%;
+    height: 10px;
+}
+
+.tanggal{
+    background: rgb(74, 74, 236);
+    height: max-content;
+    text-align: center;
+    padding: 5px;
+}
+
+.logoDel{
+    height:100px;
+}

@@ -1,0 +1,54 @@
+
+
+.intro{
+    height: 400px;
+    display: flex;
+    justify-content: start;
+    align-items: flex-start;
+    background: url("../Assets/Intro_background.png");
+    background-size:cover;
+}
+
+.title{
+    font-size: 3rem;
+    font-weight: 800;  
+    line-height: 1;
+    text-shadow: 2px 2px black;
+    letter-spacing: 4px;
+    color: #357789;
+}
+
+.sarjana{
+    font-size: 3rem;
+    font-weight: 800;  
+    line-height: 1;
+    
+    letter-spacing: 4px;
+    color: white;
+}
+
+.informatika{
+    font-size: 3rem;
+    font-weight: 800;  
+    line-height: 1;
+    text-shadow: 2px 2px black;
+    letter-spacing: 4px;
+}
+
+.program{
+    font-size: 3rem;
+    font-weight: 800;  
+    line-height: 1;
+    text-shadow: 2px 2px black;
+    letter-spacing: 4px;
+    color: white;
+}
+
+.studi{
+    font-size: 3rem;
+    font-weight: 800;  
+    line-height: 1;
+    text-shadow: 2px 2px black;
+    letter-spacing: 4px;
+    color: #357789;
+}
